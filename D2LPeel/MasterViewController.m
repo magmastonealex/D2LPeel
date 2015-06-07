@@ -1,8 +1,8 @@
 //
 //  MasterViewController.m
-//  D2LPeel
+//  D2LC
 //
-//  Created by Alex Roth on 2014-11-07.
+//  Created by Alex Roth on 2014-11-09.
 //  Copyright (c) 2014 MagmaStone. All rights reserved.
 //
 
